@@ -1,2 +1,2 @@
-# Deep-Learning
-A few notebooks about deep learning/NLP in Pytorch
+# A language model trained on persian-wikipedia corpus
+An LSTM based language model trained on persian-wikipedia corpus
